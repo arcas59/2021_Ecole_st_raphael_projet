@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Candy Cake';
+  src: url(./Candy+Cake.eot);
+  src: url(./Candy+Cake.eot?#iefix) format('embedded-opentype'),
+       url(./Candy+Cake.otf) format('otf'),
+       url(./Candy+Cake.svg#Candy%20Cake) format('svg'),
+       url(./Candy+Cake.ttf) format('truetype'),
+       url(./Candy+Cake.woff) format('woff'),
+       url(./Candy+Cake.woff2) format('woff2');
+}
