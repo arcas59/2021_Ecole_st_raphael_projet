@@ -491,8 +491,8 @@ body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-x
 button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus
 {
     color:#ffffff;
-    background-color:#f9cc00;
-    border-color:#f9cc00;
+    background-color:#0dec77;
+    border-color:#0dec77;
 }
 
 @media (min-width:921px)
