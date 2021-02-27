@@ -14,7 +14,8 @@
       font-size: 2.0em;
       letter-spacing: 1px;
       padding: 40px;
-      color: white;
+      color: rgb(0, 0, 0);
+      margin-top: 7%;
   }
   
   .gallery-image {
