@@ -31,3 +31,7 @@ body::-webkit-scrollbar-thumb {
 #verto:hover {
     color:rgb(23, 84, 253);
 }
+#espaco {
+    margin-left: 10%;
+    margin-right: 10%;
+}
