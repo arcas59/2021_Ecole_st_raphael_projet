@@ -41,4 +41,5 @@ body::-webkit-scrollbar-thumb {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
+    border-radius: 20px;
 }
